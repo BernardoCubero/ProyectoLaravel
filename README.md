@@ -6,7 +6,7 @@
 
 Durante la instalación y ejecución del proyecto, nos encontramos con los siguientes problemas:
 
-- ❌ **Error:** `Laravel requires the Mcrypt PHP extension.`  
+- ❌ **Error:** `Laravel requires the Mcrypt PHP extension.`   
   **Causa:** Laravel 5 depende de `mcrypt`, una extensión eliminada en PHP 7.2+.  
   **Solución:** Comentamos manualmente el chequeo en el archivo:
   ```
