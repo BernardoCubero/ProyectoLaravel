@@ -1,5 +1,5 @@
 # ProyectoLaravel
-###Integrantes del Proyecto
+## Integrantes del Proyecto
 ### Bernardo Cubero
 ### Pablo Herrador
 ### Rafael Moreno
